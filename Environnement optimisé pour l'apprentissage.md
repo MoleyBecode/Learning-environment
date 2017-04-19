@@ -1,9 +1,9 @@
 # Environnement optimisé pour l'apprentissage
 
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Liste du (...)</h1>
+## 1. Etat d'esprit
+## 2.
+## 3.
+## 4.
 
-</body>
-</html>
+## 1. Etat d'esprit
+* ### Motivation
