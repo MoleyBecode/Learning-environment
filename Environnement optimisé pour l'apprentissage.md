@@ -1,3 +1,4 @@
 # Environnement optimisé pour l'apprentissage
 
-## Etat d'esprit
+## 1. Etat d'esprit
+* ### Motivation
