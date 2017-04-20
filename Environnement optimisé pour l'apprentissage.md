@@ -17,7 +17,6 @@
 
 
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort)
-
 * ### Cadre Agradable
 * ### Des Plates de la Verdure
 * ### Pause
@@ -33,11 +32,7 @@
 * ### Cuistot de qualité
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
-
-
-
 ## 4. Drôle/Fun
-
 * ### Sac de boxe
 * ### Nature
 * ### Voyage
