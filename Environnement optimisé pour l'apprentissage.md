@@ -1,6 +1,5 @@
 ![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
 
-</br>
 # Environnement optimisé pour l'apprentissage
 
 
