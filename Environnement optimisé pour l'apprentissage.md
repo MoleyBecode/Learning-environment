@@ -3,7 +3,7 @@
 
 # Environnement optimisé pour l'apprentissage
 
-![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+
 
 ### 0. Introduction
 ### 1. Etat d'esprit
