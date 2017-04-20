@@ -1,5 +1,7 @@
 
+
 ![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
+
 
 # Environnement optimisé pour l'apprentissage
 
@@ -75,10 +77,20 @@ Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide es
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
 ## 4. Drôle/Fun
+(ce sont de réels propositions de la part de tout les éleves apprenants, les commentaires sont là pour expliquer :) )
+
 * ### Sac de boxe
+Lorsqu'on bloque sur un détail d un programme ou d un cours, il est trés facile de se laisser aller à l 'expression de cette frustration.Frapper dans un sac de boxe permetrai de se decrisper et d 'entrevoir de futurs solutions tout en étant debarassé de ce sentiment d'impuisance
+
 * ### Nature
+Je propose une montagne, une piste de ski et une riviere au milieu de la classe...ça raffraichit 
+
 * ### Voyage
+Une fois les projets términé, la personne qui aura fini la premiere poura choisir une ou un camarade pour aller aux Maldives
+
 * ### Bac à sable
+Il est parfois fort plaisant de pouvoir faire des chateaux de sables et par la meme occasion se retrouver avec des grains de sables partout là où cela peut gener (slip, chaussettes, cheveux)
+
 
 ![](http://gif.toutimages.com/images/bureautique/ordinateurs/ordi_022.gif)
 
