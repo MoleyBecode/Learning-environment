@@ -7,12 +7,15 @@
 
 ## 1. Etat d'esprit
 * ### Motivation
+
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort)
+
 * ### Cadre Agradable
 * ### Des Plates de la Verdure
 * ### Pause
 * ### Musique
 * ### Lumiere
+
 ![confort](http://www.bestofinteriors.com/wp-content/uploads/2016/05/d0a55__modern-workspace-8.jpg)
 
 ## 3. Nourriture
