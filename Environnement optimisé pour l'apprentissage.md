@@ -1,6 +1,10 @@
-![BeCode Names](https://media.giphy.com/media/3og0ISsCS8bQbhYAFO/giphy.gif)
+
+
+![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
+
 
 # Environnement optimisé pour l'apprentissage
+
 
 
 ### 0. Introduction
@@ -40,7 +44,6 @@ Persévérer est très important pour touts étudiants, mais particulièrement p
 * ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
 Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide est une caractéristique enraciné dans la culture des hackers et programmeur.
 
-
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
    Como parte de un aprendizaje productivo es necesario estar a gusto con el entorno que te rodea, es por ello que el confort es parte fundamental para lograrlo. Desde el ambiente hasta la decoracion, son ingredientes importante. A continuacion  algunas cosas que consideramos contribuyen a generar un ambiente de confort.
 
@@ -63,9 +66,14 @@ Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide es
 
 ## 3. Nourriture
 * ### Snacks
+   Parce qu'il est difficile de travailler le ventre vide, les snacks sont importants. Ces délices permettent de nous donner la force de travailler.
 * ### Café
+   Cette drogue est le moteur d'un bon travail. Le café nous permet de rester debout et éveillé devant la charge de travail qui peut nous tomber dessus. Il permet aussi de favoriser les échanges et de rapprocher les gens.
 * ### Bonne nourriture
+   Comme les snacks, une bonne nourriture permet d'être en forme et d'avoir l'esprit libre pour se concentrer à 100% sur le travail.
 * ### Cuistot de qualité
+   Qui ne rêve pas d'un cuistot de qualité personnel pour se faire concocter de bons petits plats ?
+   
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
 ## 4. Drôle/Fun
