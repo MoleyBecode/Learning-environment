@@ -1,12 +1,20 @@
 # Environnement optimisé pour l'apprentissage
 
-## 1. Etat d'esprit
-## 2. Confort
-## 3. Nourriture
-## 4. Drôle/Fun
+![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+
+### 1. Etat d'esprit
+### 2. Confort
+### 3. Nourriture
+### 4. Drôle/Fun
 
 ## 1. Etat d'esprit
-* ### Motivation
+* ### [Motivation](https://www.cairn.info/se-motiver-a-apprendre--9782130558637.htm)
+* ### Calme
+* ### Enthusiasme
+* ### Confiance en soi
+* ### Persévérance
+* ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
+
 
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort)
 
@@ -40,5 +48,7 @@
 
 
 [Ryver](https://becode.ryver.com)
+</br>
 [GitHub](https://github.com/)
+</br>
 [BeCode](http://register.becode.org/)
