@@ -26,12 +26,18 @@ Bonne lecture
 
 
 ## 1. Etat d'esprit
-* ### [Motivation](https://www.cairn.info/se-motiver-a-apprendre--9782130558637.htm)
+* ### [Motivation](http://www.eduvs.ch/lcp/methode/index.php?option=com_content&task=view&id=7&Itemid=6&limit=1&limitstart=1)
+Afin à vraiment apprendre et maîtriser la matière, nous pensons qu'être motivé est nécessaire. La motivation vous aide à persévérer et à réussir. Le lien contient plus d'information sûr l'importance de la motivation dans l'apprentissage.
 * ### Calme
+Il y a beaucoup de gens qui on besoin de la calme pour apprendre la nouvelle matériel. C'est pour ça que BeCode demande que toutes intéractions se fassent dans le respect de l'autre et du calme des autres étudiants.
 * ### Enthousiasme
+Enthousiasme et motivation sont similaire. Les deux mots se rejoignent avec avoir l'envie d'apprendre. Si quelqu'un n'a pas l'envie d'apprendre, c'est très difficile de l'obliger. La première condition pour apprendre quelque chose, c'est que la personne ai un esprit ouvert.
 * ### Confiance en soi
+Avoir la confiance en soi aidera quelqu'un à atteindre ses objectifs. C'est comme une prophétie auto-réalisatrice, quand quelqu'un croit qu'il peut faire quelque chose, il le fera.
 * ### Persévérance
+Persévérer est très important pour touts étudiants, mais particulièrement pour les étudiants en programmation. Quand on code, il y aura toujours des petits problèmes a résoudre. En résolvant ces problèmes, c'est très important de ne pas abandonner jusqu'au moment où on a trouveé la solution.
 * ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
+Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide est une caractéristique enraciné dans la culture des hackers et programmeur.
 
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
    Dans le cadre d'un apprentissage productif vous devez être à l'aise avec l'environnement autour de vous, c'est pourquoi le confort est essentiel pour réaliser une partie. De l'atmosphère à la décoration, ils sont des ingrédients importants. Voici quelques choses à envisager de contribuer à un climat de confort.
