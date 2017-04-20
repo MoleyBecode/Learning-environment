@@ -8,9 +8,11 @@
 ## 1. Etat d'esprit
 * ### Motivation
 
-## 2.[Confort](https://fr.wikipedia.org/wiki/Confort)
+## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
+   Dans le cadre d'un apprentissage productif que vous devez être à l'aise avec l'environnement autour de vous, ce qui est la raison pour laquelle le confort est essentiel pour réaliser une partie. De l'atmosphère à la décoration, ils sont des ingrédients importants. Voici quelques choses à envisager de contribuer à un climat de confort.
 
-* ### Cadre Agradable
+* ### Cadre Agradable:
+  
 * ### Des Plates de la Verdure
 * ### Pause
 * ### Musique
