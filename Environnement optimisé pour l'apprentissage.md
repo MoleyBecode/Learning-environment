@@ -18,13 +18,13 @@
   Les plantes en milieu de travail sont en mesure de générer calme et donner la perception d'un environnement frais et propre.
 
 * ### Pause:
-Travail continu et sans relâche génère beaucoup de stress, ce qui diminue la performance des activités, ce qui est la raison pour laquelle nous avons des pauses permet à l'équipe de se laisser distraire, de manger et de partage.
+  Travail continu et sans relâche génère beaucoup de stress, ce qui diminue la performance des activités, ce qui est la raison pour laquelle nous avons des pauses permet à l'équipe de se laisser distraire, de manger et de partage.
 
 * ### Musique:
-Musique comme des tables et des plantes générer calme et permettre rejarles de les apprécier, ce qui permet une atmosphère de confort.
+  Musique comme des tables et des plantes générer calme et permettre rejarles de les apprécier, ce qui permet une atmosphère de confort.
 
 * ### Lumiere:
-un environnement bien éclairé est capable de transmettre calme et aider à maintenir l'ambiance autour de l'équipe.
+  un environnement bien éclairé est capable de transmettre calme et aider à maintenir l'ambiance autour de l'équipe.
 
 ![confort](http://www.bestofinteriors.com/wp-content/uploads/2016/05/d0a55__modern-workspace-8.jpg)
 
