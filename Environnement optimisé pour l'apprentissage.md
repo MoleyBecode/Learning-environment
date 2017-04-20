@@ -40,23 +40,23 @@ Persévérer est très important pour touts étudiants, mais particulièrement p
 Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide est une caractéristique enraciné dans la culture des hackers et programmeur.
 
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
-   Dans le cadre d'un apprentissage productif vous devez être à l'aise avec l'environnement autour de vous, c'est pourquoi le confort est essentiel pour réaliser une partie. De l'atmosphère à la décoration, ils sont des ingrédients importants. Voici quelques choses à envisager de contribuer à un climat de confort.
+   Como parte de un aprendizaje productivo es necesario estar a gusto con el entorno que te rodea, es por ello que el confort es parte fundamental para lograrlo. Desde el ambiente hasta la decoracion, son ingredientes importante. A continuacion  algunas cosas que consideramos contribuyen a generar un ambiente de confort.
 
 * ### Cadre Agradable:
-  Il est vrai que l'art génère des gens calmes, ce qui est pourquoi nous avons quelques photos dans le lieu de travail est une bonne ressource visuelle au calme en période de stress.
+  Es cierto que el arte genera calma en las personas, es por ello que contar con algunos cuadros en el entorno de trabajo es un buen recurso visual para encontrar la calma en momentos de tension.
 
 * ### Des Plantes et de la Verdure:
-  Les plantes en milieu de travail sont en mesure de générer calme et donner la perception d'un environnement frais et propre.
+  Las plantas en los ambientes de trabajo son capaces de generar calma y dar la percepción de un ambiente fresco y limpio.
 
 * ### Pause:
-  Travail continu et sans relâche génère beaucoup de stress, ce qui diminue la performance des activités, ce qui est la raison pour laquelle nous avons des pauses permet à l'équipe de se laisser distraire, de manger et de partage.
+  El trabajo continuo y sin descanso, genera mucho estres que al final reduce el rendimiento en las actividades, es por ello que contar con pausas permite que el equipo de trabajo pueda distraerse, comer y compartir.
 
 * ### Musique:
-  Musique comme des tables et des plantes générer calme et permettre rejarles de les apprécier, ce qui permet une atmosphère de confort.
-
+  La musica al igual que los cuadros y las plantas, generan calma y permiten rejarles a quienes los aprecian, lo cual permite un ambiente de confort.
+  
 * ### Lumiere:
-  un environnement bien éclairé est capable de transmettre calme et aider à maintenir l'ambiance autour de l'équipe.
-
+  un ambiente bien iluminado es capaz de transmitir calma y ayudar a mantener el buen humor en todo el equipo de trabajo.
+  
 ![confort](http://www.bestofinteriors.com/wp-content/uploads/2016/05/d0a55__modern-workspace-8.jpg)
 
 ## 3. Nourriture
