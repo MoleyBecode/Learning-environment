@@ -1,8 +1,6 @@
-![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
-
-</br>
 # Environnement optimisé pour l'apprentissage
 
+![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
 
 ### 0. Introduction
 ### 1. Etat d'esprit
@@ -26,7 +24,7 @@ Voici une synthèse pas très synthétique :) de nos échanges (les 21 élèves 
 Bonne lecture 
 
 
-</br>
+
 ## 1. Etat d'esprit
 * ### [Motivation](http://www.eduvs.ch/lcp/methode/index.php?option=com_content&task=view&id=7&Itemid=6&limit=1&limitstart=1)
 Afin à vraiment apprendre et maîtriser la matière, nous pensons qu'être motivé est nécessaire. La motivation vous aide à persévérer et à réussir. Le lien contient plus d'information sûr l'importance de la motivation dans l'apprentissage.
@@ -41,7 +39,6 @@ Persévérer est très important pour touts étudiants, mais particulièrement p
 * ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
 Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide est une caractéristique enraciné dans la culture des hackers et programmeur.
 
-</br>
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
    Como parte de un aprendizaje productivo es necesario estar a gusto con el entorno que te rodea, es por ello que el confort es parte fundamental para lograrlo. Desde el ambiente hasta la decoracion, son ingredientes importante. A continuacion  algunas cosas que consideramos contribuyen a generar un ambiente de confort.
 
@@ -62,15 +59,18 @@ Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide es
   
 ![confort](http://www.bestofinteriors.com/wp-content/uploads/2016/05/d0a55__modern-workspace-8.jpg)
 
-</br>
 ## 3. Nourriture
 * ### Snacks
+   Parce qu'il est difficile de travailler le ventre vide, les snacks sont importants. Ces délices permettent de nous donner la force de travailler.
 * ### Café
+   Cette drogue est le moteur d'un bon travail. Le café nous permet de rester debout et éveillé devant la charge de travail qui peut nous tomber dessus. Il permet aussi de favoriser les échanges et de rapprocher les gens.
 * ### Bonne nourriture
+   Comme les snacks, une bonne nourriture permet d'être en forme et d'avoir l'esprit libre pour se concentrer à 100% sur le travail.
 * ### Cuistot de qualité
+   Qui ne rêve pas d'un cuistot de qualité personnel pour se faire concocter de bons petits plats ?
+   
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
-</br>
 ## 4. Drôle/Fun
 * ### Sac de boxe
 * ### Nature
