@@ -1,12 +1,37 @@
 # Environnement optimisé pour l'apprentissage
 
-## 1. Etat d'esprit
-## 2. Confort
-## 3. Nourriture
-## 4. Drôle/Fun
+![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
+
+### 0. Introduction
+### 1. Etat d'esprit
+### 2. Confort
+### 3. Nourriture
+### 4. Drôle/Fun
+
+</br>
+</br>
+
+## 0. Introduction : 
+
+Nous voilà à Becode… Enfin !!
+
+Après une épreuve de sélection, nous avons eu le plaisir de recevoir chacun un mail agréable nous informant que nous avons été pris et nous invitant à nous présenter le 18 avril pour notre premiere journée ensemble
+
+La première journée nous avons pris connaissance du programme dans les grandes lignes, avons été averti des impératifs liés à l ‘assiduité, avons visité le bâtiment et enfin nous avons pu nous exprimer sur ce qui nous semblait important à avoir/être pour apprendre dans les meilleurs conditions. 
+
+Voici une synthèse pas très synthétique :) de nos échanges (les 21 élèves et les formateurs) ainsi que des considérations plus personnels à notre “équipe provisoire” Victor, Thomas, Pablo et Moley .
+
+Bonne lecture 
+
+
 
 ## 1. Etat d'esprit
-* ### Motivation
+* ### [Motivation](https://www.cairn.info/se-motiver-a-apprendre--9782130558637.htm)
+* ### Calme
+* ### Enthousiasme
+* ### Confiance en soi
+* ### Persévérance
+* ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
 
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
    Dans le cadre d'un apprentissage productif que vous devez être à l'aise avec l'environnement autour de vous, ce qui est la raison pour laquelle le confort est essentiel pour réaliser une partie. De l'atmosphère à la décoration, ils sont des ingrédients importants. Voici quelques choses à envisager de contribuer à un climat de confort.
@@ -36,7 +61,6 @@
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
 ## 4. Drôle/Fun
-
 * ### Sac de boxe
 * ### Nature
 * ### Voyage
@@ -47,5 +71,7 @@
 
 
 [Ryver](https://becode.ryver.com)
+</br>
 [GitHub](https://github.com/)
+</br>
 [BeCode](http://register.becode.org/)
