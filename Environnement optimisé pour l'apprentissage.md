@@ -1,6 +1,6 @@
 ![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
 
-
+</br>
 # Environnement optimisé pour l'apprentissage
 
 
@@ -26,7 +26,7 @@ Voici une synthèse pas très synthétique :) de nos échanges (les 21 élèves 
 Bonne lecture 
 
 
-
+</br>
 ## 1. Etat d'esprit
 * ### [Motivation](http://www.eduvs.ch/lcp/methode/index.php?option=com_content&task=view&id=7&Itemid=6&limit=1&limitstart=1)
 Afin à vraiment apprendre et maîtriser la matière, nous pensons qu'être motivé est nécessaire. La motivation vous aide à persévérer et à réussir. Le lien contient plus d'information sûr l'importance de la motivation dans l'apprentissage.
@@ -41,6 +41,7 @@ Persévérer est très important pour touts étudiants, mais particulièrement p
 * ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
 Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide est une caractéristique enraciné dans la culture des hackers et programmeur.
 
+</br>
 ## 2.[Confort](https://fr.wikipedia.org/wiki/Confort): 
    Como parte de un aprendizaje productivo es necesario estar a gusto con el entorno que te rodea, es por ello que el confort es parte fundamental para lograrlo. Desde el ambiente hasta la decoracion, son ingredientes importante. A continuacion  algunas cosas que consideramos contribuyen a generar un ambiente de confort.
 
@@ -61,6 +62,7 @@ Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide es
   
 ![confort](http://www.bestofinteriors.com/wp-content/uploads/2016/05/d0a55__modern-workspace-8.jpg)
 
+</br>
 ## 3. Nourriture
 * ### Snacks
 * ### Café
@@ -68,6 +70,7 @@ Dans le coding, il y a un fort sentiment de communauté et unité. L'entraide es
 * ### Cuistot de qualité
 ![](http://enseigner.tv5monde.com/sites/enseigner.tv5monde.com/files/assets/images/pdc-oldelaf-lecafe-visuel.jpg)
 
+</br>
 ## 4. Drôle/Fun
 * ### Sac de boxe
 * ### Nature
