@@ -10,7 +10,7 @@
 ## 1. Etat d'esprit
 * ### [Motivation](https://www.cairn.info/se-motiver-a-apprendre--9782130558637.htm)
 * ### Calme
-* ### Enthusiasme
+* ### Enthousiasme
 * ### Confiance en soi
 * ### Persévérance
 * ### [Entraide](https://www.icem-pedagogie-freinet.org/node/13377)
