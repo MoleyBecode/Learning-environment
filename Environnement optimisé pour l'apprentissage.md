@@ -34,8 +34,6 @@
 
 ![](http://gif.toutimages.com/images/bureautique/ordinateurs/ordi_022.gif)
 
-<html>
-<head>
 <script type="text/javascript">
   function myFunction(){
     alert("# Environnement optimisé pour l'apprentissage
@@ -75,11 +73,6 @@
 ![](http://gif.toutimages.com/images/bureautique/ordinateurs/ordi_022.gif)");
   }
 </script>
- </head>
-<body>
-<input type="submit" onClick="myFunction()">
-</body>
-</html>
 
 [Ryver](https://becode.ryver.com)
 [GitHub](https://github.com/)
