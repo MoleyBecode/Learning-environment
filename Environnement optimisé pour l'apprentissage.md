@@ -2,7 +2,16 @@
 
 ![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
 
-Introduction : 
+### 0. Introduction
+### 1. Etat d'esprit
+### 2. Confort
+### 3. Nourriture
+### 4. Drôle/Fun
+
+</br>
+</br>
+
+## 0. Introduction : 
 
 Nous voilà à Becode… Enfin !!
 
@@ -14,10 +23,7 @@ Voici une synthèse pas très synthétique :) de nos échanges (les 21 élèves 
 
 Bonne lecture 
 
-### 1. Etat d'esprit
-### 2. Confort
-### 3. Nourriture
-### 4. Drôle/Fun
+
 
 ## 1. Etat d'esprit
 * ### [Motivation](https://www.cairn.info/se-motiver-a-apprendre--9782130558637.htm)
