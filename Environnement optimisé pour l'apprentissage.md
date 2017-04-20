@@ -1,3 +1,6 @@
+
+![BeCode Names](https://media.giphy.com/media/26gR1sLKBOq8rsNVu/giphy.gif)
+
 # Environnement optimisé pour l'apprentissage
 
 ![Waving Bear](https://media4.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
